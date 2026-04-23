@@ -8,3 +8,4 @@ To use HUMAnN3 a conda environment was created with al the necessary tools. A hu
 3. Download databases (see below)
 
 ## Overview
+<img src="1.Images/humann_workflow.png" alt="Oeps" width="800" style="display:block; margin-left:auto; margin-right:auto;"/>
