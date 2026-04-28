@@ -1,5 +1,10 @@
-# Ignore specific files by name
-3.Data/RNA035463
-3.Data/RNA035464
+# Sensitive data files
+3.Data/RNA035463/
+3.Data/RNA035464/
+3.Data/Merged/
+
+# Output files
+4.Output/
+
+# Large database files
 humann_dbs/
-filesender_vaginal_swabs.tar.gz
